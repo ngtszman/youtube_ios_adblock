@@ -8,7 +8,7 @@ tested in
 - Youtube App version 13.42.6
 
 step1:
-download AdBlock in AppStore
+download AdBlock in AppStore (https://www.adblockios.com/)
 
 step2:
 Add below domain 
